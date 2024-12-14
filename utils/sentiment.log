@@ -1,0 +1,270 @@
+Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases.
+2024-12-14 04:22:04 Output: 
+Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases.
+2024-12-14 04:22:04 Output: 
+Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases.
+2024-12-14 04:22:04 Output: 
+Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases.
+2024-12-14 04:22:29 Output: 
+Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases.
+2024-12-14 04:22:29 Output: 
+Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases.
+2024-12-14 04:22:29 Output: 
+Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases.
+2024-12-14 04:22:29 Output: 
+Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases.
+2024-12-14 04:22:29 Output: 
+Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases.
+2024-12-14 04:22:29 Output: 
+Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases.
+2024-12-14 04:22:42 Output: 
+Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases.
+2024-12-14 04:22:42 Output: 
+Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases.
+2024-12-14 04:22:42 Output: 
+Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases.
+2024-12-14 04:26:33 Output: 
+Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases.
+2024-12-14 04:26:33 Output: 
+Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases.
+2024-12-14 04:26:33 Output: 
+Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases.
+2024-12-14 04:26:43 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "I do not like the teacher. " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 04:26:43 Output: 
+Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases.
+2024-12-14 04:26:44 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "The teacher is very bad at teaching. I do not like him using english because he is very bad at grammar. " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 04:26:44 Output: 
+Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases.
+2024-12-14 04:26:44 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "I Really hate the teacher   " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 04:26:44 Output: 
+Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases.
+2024-12-14 04:26:50 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "I do not like the teacher. " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 04:26:50 Output: 
+Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases.
+2024-12-14 04:26:51 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "The teacher is very bad at teaching. I do not like him using english because he is very bad at grammar. " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 04:26:51 Output: 
+Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases.
+2024-12-14 04:26:51 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "I Really hate the teacher   " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 04:26:51 Output: 
+Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases.
+2024-12-14 04:28:57 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "I do not like the teacher. " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 04:28:57 Output: 
+Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases.
+2024-12-14 04:28:57 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "The teacher is very bad at teaching. I do not like him using english because he is very bad at grammar. " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 04:28:57 Output: 
+Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases.
+2024-12-14 04:28:58 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "I Really hate the teacher   " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 04:28:58 Output: 
+Traceback (most recent call last):
+  File "C:\laragon\www\facultyeval\utils/sentiment_analysis.py", line 1, in <module>
+    from textblob import TextBlob
+ModuleNotFoundError: No module named 'textblob'
+2024-12-14 04:31:18 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "I do not like the teacher. " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 04:31:18 Output: 
+Traceback (most recent call last):
+  File "C:\laragon\www\facultyeval\utils/sentiment_analysis.py", line 1, in <module>
+    from textblob import TextBlob
+ModuleNotFoundError: No module named 'textblob'
+2024-12-14 04:31:18 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "The teacher is very bad at teaching. I do not like him using english because he is very bad at grammar. " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 04:31:18 Output: 
+Traceback (most recent call last):
+  File "C:\laragon\www\facultyeval\utils/sentiment_analysis.py", line 1, in <module>
+    from textblob import TextBlob
+ModuleNotFoundError: No module named 'textblob'
+2024-12-14 04:31:18 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "I Really hate the teacher   " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 04:31:18 Output: 
+Error analyzing text: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\franz/nltk_data'
+    - 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.496.0_x64__qbz5n2kfra8p0\\nltk_data'
+    - 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.496.0_x64__qbz5n2kfra8p0\\share\\nltk_data'
+    - 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.496.0_x64__qbz5n2kfra8p0\\lib\\nltk_data'
+    - 'C:\\Users\\franz\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-12-14 04:32:13 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "I do not like the teacher. " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 04:32:13 Output: 
+Error analyzing text: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\franz/nltk_data'
+    - 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.496.0_x64__qbz5n2kfra8p0\\nltk_data'
+    - 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.496.0_x64__qbz5n2kfra8p0\\share\\nltk_data'
+    - 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.496.0_x64__qbz5n2kfra8p0\\lib\\nltk_data'
+    - 'C:\\Users\\franz\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-12-14 04:32:14 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "The teacher is very bad at teaching. I do not like him using english because he is very bad at grammar. " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 04:32:14 Output: 
+Error analyzing text: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\franz/nltk_data'
+    - 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.496.0_x64__qbz5n2kfra8p0\\nltk_data'
+    - 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.496.0_x64__qbz5n2kfra8p0\\share\\nltk_data'
+    - 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.496.0_x64__qbz5n2kfra8p0\\lib\\nltk_data'
+    - 'C:\\Users\\franz\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-12-14 04:32:15 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "I Really hate the teacher   " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 04:32:15 Output: 
+Analysis result: {"score": 0.0, "category": "Neutral", "frequent_terms": ["like", "teacher"], "key_phrases": [], "summary": "I do not like the teacher."}
+2024-12-14 04:36:40 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "I do not like the teacher. " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 04:36:40 Output: {"score": 0.0, "category": "Neutral", "frequent_terms": ["like", "teacher"], "key_phrases": [], "summary": "I do not like the teacher."}
+
+Analysis result: {"score": -0.6066666666666666, "category": "Negative", "frequent_terms": ["bad", "teacher", "teaching", "like", "using"], "key_phrases": [], "summary": "The teacher is very bad at teaching. I do not like him using english because he is very bad at grammar."}
+2024-12-14 04:36:43 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "The teacher is very bad at teaching. I do not like him using english because he is very bad at grammar. " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 04:36:43 Output: {"score": -0.6066666666666666, "category": "Negative", "frequent_terms": ["bad", "teacher", "teaching", "like", "using"], "key_phrases": [], "summary": "The teacher is very bad at teaching. I do not like him using english because he is very bad at grammar."}
+
+Analysis result: {"score": -0.8, "category": "Negative", "frequent_terms": ["really", "hate", "teacher"], "key_phrases": ["really"], "summary": "I Really hate the teacher"}
+2024-12-14 04:36:46 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "I Really hate the teacher   " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 04:36:46 Output: {"score": -0.8, "category": "Negative", "frequent_terms": ["really", "hate", "teacher"], "key_phrases": ["really"], "summary": "I Really hate the teacher"}
+
+Analysis result: {"score": 0.0, "category": "Neutral", "frequent_terms": ["like", "teacher"], "key_phrases": [], "summary": "I do not like the teacher.", "summary_paragraph": "In general, most students commented negatively about the teacher. "}
+2024-12-14 04:41:11 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "I do not like the teacher. " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 04:41:11 Output: {"score": 0.0, "category": "Neutral", "frequent_terms": ["like", "teacher"], "key_phrases": [], "summary": "I do not like the teacher.", "summary_paragraph": "In general, most students commented negatively about the teacher. "}
+
+Analysis result: {"score": -0.6066666666666666, "category": "Negative", "frequent_terms": ["bad", "teacher", "teaching", "like", "using"], "key_phrases": [], "summary": "The teacher is very bad at teaching. I do not like him using english because he is very bad at grammar.", "summary_paragraph": "In general, most students commented negatively about the teacher. One thing that a student disliked is The teacher is very bad at teaching. and I do not like him using english because he is very bad at grammar.. "}
+2024-12-14 04:41:13 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "The teacher is very bad at teaching. I do not like him using english because he is very bad at grammar. " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 04:41:13 Output: {"score": -0.6066666666666666, "category": "Negative", "frequent_terms": ["bad", "teacher", "teaching", "like", "using"], "key_phrases": [], "summary": "The teacher is very bad at teaching. I do not like him using english because he is very bad at grammar.", "summary_paragraph": "In general, most students commented negatively about the teacher. One thing that a student disliked is The teacher is very bad at teaching. and I do not like him using english because he is very bad at grammar.. "}
+
+Analysis result: {"score": -0.8, "category": "Negative", "frequent_terms": ["really", "hate", "teacher"], "key_phrases": ["really"], "summary": "I Really hate the teacher", "summary_paragraph": "In general, most students commented negatively about the teacher. One thing that a student disliked is I Really hate the teacher. "}
+2024-12-14 04:41:16 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "I Really hate the teacher   " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 04:41:16 Output: {"score": -0.8, "category": "Negative", "frequent_terms": ["really", "hate", "teacher"], "key_phrases": ["really"], "summary": "I Really hate the teacher", "summary_paragraph": "In general, most students commented negatively about the teacher. One thing that a student disliked is I Really hate the teacher. "}
+
+Analysis result: {"score": 0.0, "category": "Neutral", "frequent_terms": ["like", "teacher"], "key_phrases": [], "summary": "I do not like the teacher."}
+2024-12-14 04:41:52 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "I do not like the teacher. " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 04:41:52 Output: {"score": 0.0, "category": "Neutral", "frequent_terms": ["like", "teacher"], "key_phrases": [], "summary": "I do not like the teacher."}
+
+Analysis result: {"score": -0.6066666666666666, "category": "Negative", "frequent_terms": ["bad", "teacher", "teaching", "like", "using"], "key_phrases": [], "summary": "The teacher is very bad at teaching. I do not like him using english because he is very bad at grammar."}
+2024-12-14 04:41:54 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "The teacher is very bad at teaching. I do not like him using english because he is very bad at grammar. " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 04:41:54 Output: {"score": -0.6066666666666666, "category": "Negative", "frequent_terms": ["bad", "teacher", "teaching", "like", "using"], "key_phrases": [], "summary": "The teacher is very bad at teaching. I do not like him using english because he is very bad at grammar."}
+
+Analysis result: {"score": -0.8, "category": "Negative", "frequent_terms": ["really", "hate", "teacher"], "key_phrases": ["really"], "summary": "I Really hate the teacher"}
+2024-12-14 04:41:57 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "I Really hate the teacher   " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 04:41:57 Output: {"score": -0.8, "category": "Negative", "frequent_terms": ["really", "hate", "teacher"], "key_phrases": ["really"], "summary": "I Really hate the teacher"}
+
+Analysis result: {"score": 0.0, "category": "Neutral", "frequent_terms": ["like", "teacher"], "key_phrases": [], "summary": "I do not like the teacher."}
+2024-12-14 04:43:45 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "I do not like the teacher. " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 04:43:45 Output: {"score": 0.0, "category": "Neutral", "frequent_terms": ["like", "teacher"], "key_phrases": [], "summary": "I do not like the teacher."}
+
+Analysis result: {"score": -0.6066666666666666, "category": "Negative", "frequent_terms": ["bad", "teacher", "teaching", "like", "using"], "key_phrases": [], "summary": "The teacher is very bad at teaching. I do not like him using english because he is very bad at grammar."}
+2024-12-14 04:43:47 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "The teacher is very bad at teaching. I do not like him using english because he is very bad at grammar. " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 04:43:47 Output: {"score": -0.6066666666666666, "category": "Negative", "frequent_terms": ["bad", "teacher", "teaching", "like", "using"], "key_phrases": [], "summary": "The teacher is very bad at teaching. I do not like him using english because he is very bad at grammar."}
+
+Analysis result: {"score": -0.8, "category": "Negative", "frequent_terms": ["really", "hate", "teacher"], "key_phrases": ["really"], "summary": "I Really hate the teacher"}
+2024-12-14 04:43:50 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "I Really hate the teacher   " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 04:43:50 Output: {"score": -0.8, "category": "Negative", "frequent_terms": ["really", "hate", "teacher"], "key_phrases": ["really"], "summary": "I Really hate the teacher"}
+
+Analysis result: {"score": 0.0, "category": "Neutral", "frequent_terms": ["xczczxcxzc"], "key_phrases": [], "summary": "xczczxcxzc"}
+2024-12-14 04:44:01 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "xczczxcxzc" 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 04:44:01 Output: {"score": 0.0, "category": "Neutral", "frequent_terms": ["xczczxcxzc"], "key_phrases": [], "summary": "xczczxcxzc"}
+
+Analysis result: {"score": 0.3333333333333333, "category": "Positive", "frequent_terms": ["like", "teacher", "much", "caring", "loving"], "key_phrases": [], "summary": "I like the teacher so much  She is very caring and loving."}
+2024-12-14 04:44:03 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "I like the teacher so much  She is very caring and loving. " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 04:44:03 Output: {"score": 0.3333333333333333, "category": "Positive", "frequent_terms": ["like", "teacher", "much", "caring", "loving"], "key_phrases": [], "summary": "I like the teacher so much  She is very caring and loving."}
+
+Analysis result: {"score": -0.30000000000000004, "category": "Negative", "frequent_terms": ["really", "dont", "like", "teacher", "hate"], "key_phrases": [], "summary": "I really dont like the teacher  I hate him"}
+2024-12-14 04:44:06 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "I really dont like the teacher  I hate him  " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 04:44:06 Output: {"score": -0.30000000000000004, "category": "Negative", "frequent_terms": ["really", "dont", "like", "teacher", "hate"], "key_phrases": [], "summary": "I really dont like the teacher  I hate him"}
+
+Analysis result: {"score": 0.0, "category": "Neutral", "frequent_terms": ["xczczxcxzc"], "key_phrases": [], "summary": "xczczxcxzc"}
+2024-12-14 04:52:04 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "xczczxcxzc" 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 04:52:04 Output: {"score": 0.0, "category": "Neutral", "frequent_terms": ["xczczxcxzc"], "key_phrases": [], "summary": "xczczxcxzc"}
+
+Analysis result: {"score": 0.3333333333333333, "category": "Positive", "frequent_terms": ["like", "teacher", "much", "caring", "loving"], "key_phrases": [], "summary": "I like the teacher so much  She is very caring and loving."}
+2024-12-14 04:52:07 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "I like the teacher so much  She is very caring and loving. " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 04:52:07 Output: {"score": 0.3333333333333333, "category": "Positive", "frequent_terms": ["like", "teacher", "much", "caring", "loving"], "key_phrases": [], "summary": "I like the teacher so much  She is very caring and loving."}
+
+Analysis result: {"score": -0.30000000000000004, "category": "Negative", "frequent_terms": ["really", "dont", "like", "teacher", "hate"], "key_phrases": [], "summary": "I really dont like the teacher  I hate him", "positive_comments": [], "neutral_comments": [], "negative_comments": ["I really dont like the teacher  I hate him"]}
+2024-12-14 04:52:10 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "I really dont like the teacher  I hate him  " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 04:52:10 Output: {"score": -0.30000000000000004, "category": "Negative", "frequent_terms": ["really", "dont", "like", "teacher", "hate"], "key_phrases": [], "summary": "I really dont like the teacher  I hate him", "positive_comments": [], "neutral_comments": [], "negative_comments": ["I really dont like the teacher  I hate him"]}
+
+Analysis result: {"score": 0.0, "category": "Neutral", "frequent_terms": ["xczczxcxzc"], "key_phrases": [], "summary": "xczczxcxzc", "positive_comments": [], "neutral_comments": ["xczczxcxzc"], "negative_comments": []}
+2024-12-14 04:52:17 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "xczczxcxzc" 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 04:52:17 Output: {"score": 0.0, "category": "Neutral", "frequent_terms": ["xczczxcxzc"], "key_phrases": [], "summary": "xczczxcxzc", "positive_comments": [], "neutral_comments": ["xczczxcxzc"], "negative_comments": []}
+
+Analysis result: {"score": 0.3333333333333333, "category": "Positive", "frequent_terms": ["like", "teacher", "much", "caring", "loving"], "key_phrases": [], "summary": "I like the teacher so much  She is very caring and loving.", "positive_comments": ["I like the teacher so much  She is very caring and loving."], "neutral_comments": [], "negative_comments": []}
+2024-12-14 04:52:20 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "I like the teacher so much  She is very caring and loving. " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 04:52:20 Output: {"score": 0.3333333333333333, "category": "Positive", "frequent_terms": ["like", "teacher", "much", "caring", "loving"], "key_phrases": [], "summary": "I like the teacher so much  She is very caring and loving.", "positive_comments": ["I like the teacher so much  She is very caring and loving."], "neutral_comments": [], "negative_comments": []}
+
+Analysis result: {"score": -0.30000000000000004, "category": "Negative", "frequent_terms": ["really", "dont", "like", "teacher", "hate"], "key_phrases": [], "summary": "I really dont like the teacher  I hate him", "positive_comments": [], "neutral_comments": [], "negative_comments": ["I really dont like the teacher  I hate him"]}
+2024-12-14 04:52:23 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "I really dont like the teacher  I hate him  " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 04:52:23 Output: {"score": -0.30000000000000004, "category": "Negative", "frequent_terms": ["really", "dont", "like", "teacher", "hate"], "key_phrases": [], "summary": "I really dont like the teacher  I hate him", "positive_comments": [], "neutral_comments": [], "negative_comments": ["I really dont like the teacher  I hate him"]}
+
+Analysis result: {"score": 0.0, "category": "Neutral", "frequent_terms": ["xczczxcxzc"], "key_phrases": [], "summary": "xczczxcxzc", "positive_comments": [], "neutral_comments": ["xczczxcxzc"], "negative_comments": []}
+2024-12-14 05:00:05 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "xczczxcxzc" 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 05:00:05 Output: {"score": 0.0, "category": "Neutral", "frequent_terms": ["xczczxcxzc"], "key_phrases": [], "summary": "xczczxcxzc", "positive_comments": [], "neutral_comments": ["xczczxcxzc"], "negative_comments": []}
+
+Analysis result: {"score": 0.3333333333333333, "category": "Positive", "frequent_terms": ["like", "teacher", "much", "caring", "loving"], "key_phrases": [], "summary": "I like the teacher so much  She is very caring and loving.", "positive_comments": ["I like the teacher so much  She is very caring and loving."], "neutral_comments": [], "negative_comments": []}
+2024-12-14 05:00:08 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "I like the teacher so much  She is very caring and loving. " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 05:00:08 Output: {"score": 0.3333333333333333, "category": "Positive", "frequent_terms": ["like", "teacher", "much", "caring", "loving"], "key_phrases": [], "summary": "I like the teacher so much  She is very caring and loving.", "positive_comments": ["I like the teacher so much  She is very caring and loving."], "neutral_comments": [], "negative_comments": []}
+
+Analysis result: {"score": -0.30000000000000004, "category": "Negative", "frequent_terms": ["really", "dont", "like", "teacher", "hate"], "key_phrases": [], "summary": "I really dont like the teacher  I hate him", "positive_comments": [], "neutral_comments": [], "negative_comments": ["I really dont like the teacher  I hate him"]}
+2024-12-14 05:00:10 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "I really dont like the teacher  I hate him  " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 05:00:10 Output: {"score": -0.30000000000000004, "category": "Negative", "frequent_terms": ["really", "dont", "like", "teacher", "hate"], "key_phrases": [], "summary": "I really dont like the teacher  I hate him", "positive_comments": [], "neutral_comments": [], "negative_comments": ["I really dont like the teacher  I hate him"]}
+
+Analysis result: {"score": 0.0, "category": "Neutral", "frequent_terms": ["like", "teacher"], "key_phrases": [], "summary": "I do not like the teacher.", "positive_comments": [], "neutral_comments": ["I do not like the teacher."], "negative_comments": []}
+2024-12-14 05:05:09 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "I do not like the teacher. " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 05:05:09 Output: {"score": 0.0, "category": "Neutral", "frequent_terms": ["like", "teacher"], "key_phrases": [], "summary": "I do not like the teacher.", "positive_comments": [], "neutral_comments": ["I do not like the teacher."], "negative_comments": []}
+
+Analysis result: {"score": -0.6066666666666666, "category": "Negative", "frequent_terms": ["bad", "teacher", "teaching", "like", "using"], "key_phrases": [], "summary": "The teacher is very bad at teaching. I do not like him using english because he is very bad at grammar.", "positive_comments": [], "neutral_comments": [], "negative_comments": ["The teacher is very bad at teaching.", "I do not like him using english because he is very bad at grammar."]}
+2024-12-14 05:05:12 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "The teacher is very bad at teaching. I do not like him using english because he is very bad at grammar. " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 05:05:12 Output: {"score": -0.6066666666666666, "category": "Negative", "frequent_terms": ["bad", "teacher", "teaching", "like", "using"], "key_phrases": [], "summary": "The teacher is very bad at teaching. I do not like him using english because he is very bad at grammar.", "positive_comments": [], "neutral_comments": [], "negative_comments": ["The teacher is very bad at teaching.", "I do not like him using english because he is very bad at grammar."]}
+
+Analysis result: {"score": -0.8, "category": "Negative", "frequent_terms": ["really", "hate", "teacher"], "key_phrases": ["really"], "summary": "I Really hate the teacher", "positive_comments": [], "neutral_comments": [], "negative_comments": ["I Really hate the teacher"]}
+2024-12-14 05:05:14 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "I Really hate the teacher   " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 05:05:14 Output: {"score": -0.8, "category": "Negative", "frequent_terms": ["really", "hate", "teacher"], "key_phrases": ["really"], "summary": "I Really hate the teacher", "positive_comments": [], "neutral_comments": [], "negative_comments": ["I Really hate the teacher"]}
+
+Analysis result: {"score": 0.0, "category": "Neutral", "frequent_terms": ["like", "teacher"], "key_phrases": [], "summary": "I do not like the teacher.", "positive_comments": [], "neutral_comments": ["I do not like the teacher."], "negative_comments": []}
+2024-12-14 05:05:32 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "I do not like the teacher. " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 05:05:32 Output: {"score": 0.0, "category": "Neutral", "frequent_terms": ["like", "teacher"], "key_phrases": [], "summary": "I do not like the teacher.", "positive_comments": [], "neutral_comments": ["I do not like the teacher."], "negative_comments": []}
+
+Analysis result: {"score": -0.6066666666666666, "category": "Negative", "frequent_terms": ["bad", "teacher", "teaching", "like", "using"], "key_phrases": [], "summary": "The teacher is very bad at teaching. I do not like him using english because he is very bad at grammar.", "positive_comments": [], "neutral_comments": [], "negative_comments": ["The teacher is very bad at teaching.", "I do not like him using english because he is very bad at grammar."]}
+2024-12-14 05:05:35 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "The teacher is very bad at teaching. I do not like him using english because he is very bad at grammar. " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 05:05:35 Output: {"score": -0.6066666666666666, "category": "Negative", "frequent_terms": ["bad", "teacher", "teaching", "like", "using"], "key_phrases": [], "summary": "The teacher is very bad at teaching. I do not like him using english because he is very bad at grammar.", "positive_comments": [], "neutral_comments": [], "negative_comments": ["The teacher is very bad at teaching.", "I do not like him using english because he is very bad at grammar."]}
+
+Analysis result: {"score": -0.8, "category": "Negative", "frequent_terms": ["really", "hate", "teacher"], "key_phrases": ["really"], "summary": "I Really hate the teacher", "positive_comments": [], "neutral_comments": [], "negative_comments": ["I Really hate the teacher"]}
+2024-12-14 05:05:38 Command: "python" "C:\laragon\www\facultyeval\utils/sentiment_analysis.py" "I Really hate the teacher   " 2>> "C:\laragon\www\facultyeval\utils/sentiment.log"
+2024-12-14 05:05:38 Output: {"score": -0.8, "category": "Negative", "frequent_terms": ["really", "hate", "teacher"], "key_phrases": ["really"], "summary": "I Really hate the teacher", "positive_comments": [], "neutral_comments": [], "negative_comments": ["I Really hate the teacher"]}
+
